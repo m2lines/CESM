@@ -56,9 +56,9 @@
 
 [submodule "cam"]
         path = components/cam
-        url = https://www.github.com/ESCOMP/CAM
+        url = https://github.com/m2lines/CAM-ML
         fxDONOTUSEurl = https://www.github.com/ESCOMP/CAM
-        fxtag = cam6_4_161
+        fxtag = clubb_ml_cam_001
         fxrequired = ToplevelRequired
 
 [submodule "clm"]
