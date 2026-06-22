@@ -60,7 +60,7 @@
         fxDONOTUSEurl = https://www.github.com/ESCOMP/CAM
         # The commit-hash below is intended to point to the HEAD of branch
         # 'iccs/clubb-ml-main' in the mslines/CAM-ML repository.
-        fxtag = baaffc3141ba49d60e96d23631d6be51c67ac6dc
+        fxtag = df6d0158775504590b2e5c535e96ead07d2355e2
         fxrequired = ToplevelRequired
 
 [submodule "clm"]
